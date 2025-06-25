@@ -12,6 +12,6 @@ Une application simple en ligne de commande pour gérer une collection de films 
 ## Installation
 
 ```bash
-git clone https://github.com/ton-pseudo/movie-manager.git
+git clone https://github.com/bojack1304/movie-manager.git
 cd movie-manager
 pip install -r requirements.txt
